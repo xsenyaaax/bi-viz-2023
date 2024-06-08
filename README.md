@@ -1,4 +1,4 @@
-# BI-VIZ-2023-pogodars
+# BI-VIZ-2023
 
 [CZ] Předmět **Vizualizace dat** (BI-VIZ) poskytuje přehled o typech a vlastnostech dat a vhodných vizualizačních metodách, díky kterým studenti lépe porozumí datům, jejich obsahu a také jejich využití pro oblasti jako jsou data mining a strojové učení.
 
